@@ -1,0 +1,4 @@
+Flask~=1.1.2
+networkx~=2.5
+marshmallow~=3.10.0
+ortools~=8.1.8487
